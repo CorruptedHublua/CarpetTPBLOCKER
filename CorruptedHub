@@ -13,11 +13,11 @@ local WHITELIST = {
     ["WonoBeLike"] = true,
     ["ziolesAdministrator"] = true,
     ["Ericpham1228"] = true,
-    ["floriszx"] = true,
+    ["kindhmz"] = true,
     ["icanchatn_ow"] = true,
     ["hello021373"] = true,
     ["ashtenbaby"] = true,
-    ["jhetzell23"] = true,
+    ["Jhetzell23"] = true,
     ["eetswaycuhz27"] = true
 }
 
