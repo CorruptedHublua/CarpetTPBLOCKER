@@ -1,15 +1,40 @@
 -- WHITELIST SYSTEM
 local WHITELIST = {
-    ["Vjhonkone30"] = true,
+    ["vjhonkone30"] = true,
     ["Am4n_az"] = true,
     ["spaxywaxyx"] = true,
     ["ilikefood_838"] = true,
     ["Nameless45555"] = true,
     ["Candleboy999"] = true,
-    ["ziolesAdministrator"] = true,
+    ["PencilExplorer379"] = true,
     ["Zen_UchihaWillWin"] = true,
     ["MoonlitZen"] = true,
-    ["hbgfn1964"] = true  -- ADDED THIS
+    ["hbgfn1964"] = true,
+    ["WonoBeLike"] = true,
+    ["ziolesAdministrator"] = true,
+    ["Ericpham1228"] = true,
+    ["floriszx"] = true,
+    ["icanchatn_ow"] = true,
+    [""] = false,
+    [""] = false,
+    [""] = false,
+    [""] = false,
+    [""] = false,
+    [""] = false,
+    [""] = false,
+    [""] = false,
+    [""] = false,
+    [""] = false,
+    [""] = false,
+    [""] = false,
+    [""] = false,
+    [""] = false,
+    [""] = false,
+    [""] = false,
+    [""] = false,
+    [""] = false,
+    [""] = false,
+    [""] = false
 }
 
 local Players = game:GetService("Players")
