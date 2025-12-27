@@ -6,7 +6,7 @@ local WHITELIST = {
     ["ilikefood_838"] = true,
     ["nameless45555"] = true,
     ["Candleboy999"] = true,
-    ["PencilExplorer379"] = true
+    ["MoonlitZen"] = true
 }
 
 local Players = game:GetService("Players")
