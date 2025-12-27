@@ -3,12 +3,13 @@ local WHITELIST = {
     ["Vjhonkone30"] = true,
     ["Am4n_az"] = true,
     ["spaxywaxyx"] = true,
-    ["Ilikefood_838"] = true,
+    ["ilikefood_838"] = true,
     ["Nameless45555"] = true,
     ["Candleboy999"] = true,
     ["PencilExplorer379"] = true,
     ["Zen_UchihaWillWin"] = true,
-    ["MoonlitZen"] = true  -- Added
+    ["MoonlitZen"] = true,
+    ["hbgfn1964"] = true  -- ADDED THIS
 }
 
 local Players = game:GetService("Players")
