@@ -18,23 +18,7 @@ local WHITELIST = {
     ["hello021373"] = true,
     ["ashtenbaby"] = true,
     ["jhetzell23"] = true,
-    ["eetswaycuhz27"] = true,
-    [""] = false,
-    [""] = false,
-    [""] = false,
-    [""] = false,
-    [""] = false,
-    [""] = false,
-    [""] = false,
-    [""] = false,
-    [""] = false,
-    [""] = false,
-    [""] = false,
-    [""] = false,
-    [""] = false,
-    [""] = false,
-    [""] = false,
-    [""] = false
+    ["eetswaycuhz27"] = true
 }
 
 local Players = game:GetService("Players")
